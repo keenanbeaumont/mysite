@@ -19,6 +19,14 @@ projects[strongarm][version] = 2.0
 projects[views][subdir] = contrib
 projects[views][version] = 3.13
 
+projects[coffee][subdir] = contrib
+projects[coffee][version] = 2.2
+
+projects[coder][subdir] = contrib
+projects[coder][version] = 1.2
+
+projects[module_filter][subdir] = contrib
+projects[module_filter][version] = 2.0
 
 
 
